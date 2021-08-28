@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karan Sharma
+- 👀 I’m interested in helping others and learning new things .
+- 🌱 I’m an AWS Solutions Architect
+- 📫 You can reach me on my e-mail = "karansharmasre761@gmail.com"
